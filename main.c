@@ -76,6 +76,6 @@ while(erro<6 && acertou(inc))
 }
 system("clear");
 printforca(erro);
-printf("\n[%s]\n\n",inc);
+printf("\n[%s]\n",inc);
 return 0;
 }
